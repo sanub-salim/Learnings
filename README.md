@@ -1,2 +1,2 @@
-# Learnings
-These py files are the ones I created when learning python
+# Portfolio projects
+The repository is used to showcase my Portfolio projects
